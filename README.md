@@ -4,12 +4,14 @@ This is a list of Sui developers seeking employment or contract opportunities. P
 
 ## 📌 Developer Profiles
 
-All profiles are stored in the `developers/` directory. Each file represents a developer and includes details like:
+All profiles are stored in the `developers` directory. Each file represents a developer and includes details like:
 
-- **Name** (real or pseudonymous)
-- **GitHub Handle**
+- **Name**
 - **Location**
-- **Programming Experience**
+- **GitHub Handle**
+- **Sui Addresses**
+- **Sui Packages**
+- **Experience Statement**
 - **Sui Skills**
 - **Opportunities Sought**
 
