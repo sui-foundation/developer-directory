@@ -32,7 +32,7 @@ I am comfortable writing Move and with a broad range of Sui development tools su
 ## Sui Skills
 
 - Move
-  - [] Novice (1+ months, still learning basics)
+  - [ ] Novice (1+ months, still learning basics)
   - [ ] Progressing (2+ months, deployed multiple unique packages)
   - [x] Competent (3+ months, deployed multiple unique packages, broad understanding of all Move surfaces)
   - [ ] Advanced (6+ months, deployed multiple production projects, proficient in most areas)
