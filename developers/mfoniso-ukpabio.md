@@ -50,6 +50,4 @@ I’m comfortable working across the smart contract layer and backend infrastruc
 
 ## Opportunities Sought
 
-## Opportunities Sought
-
 I’m seeking a full-time position focused on Move smart contract engineering. Ideally, I’d like to dedicate at least 60% of my time to core on-chain development, contributing to meaningful and technically challenging projects within the Sui ecosystem.
