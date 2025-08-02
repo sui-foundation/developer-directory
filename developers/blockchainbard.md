@@ -19,6 +19,8 @@ Abuja, Nigeria
 
 ## Sui Packages
 
+- @pkg/formatter
+
 ## Experience Statement
 
 I have 6 years of programming experience across embedded systems using C and C++, backend development with NestJS, and some frontend work using React. I’ve also spent 4 years in data science and artificial intelligence, building Telegram bots with Python and JavaScript, and developing automated trading systems for forex.
