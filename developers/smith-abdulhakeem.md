@@ -8,7 +8,7 @@ Lagos, Nigeria
 
 ## GitHub Handle
 
-@smith961(https://github.com/smith961)
+[@smith961](https://github.com/smith961)
 
 ## Sui Addresses
 - 0x2b30136b866ce3afe6dd2d6f2121e5f3517e6e26bf530fc64dd0a2dd12050cdd
@@ -33,19 +33,24 @@ I am comfortable writing Move and with a broad range of Sui development tools. I
 - Move
   - [ ] Novice (1+ months, still learning basics)
   - [ ] Progressing (2+ months, deployed multiple unique packages)
-  - [ x ] Competent (3+ months, deployed multiple unique packages, broad understanding of all Move surfaces)
+  - [x] Competent (3+ months, deployed multiple unique packages, broad understanding of all Move surfaces)
   - [ ] Advanced (6+ months, deployed multiple production projects, proficient in most areas)
 - [ ] Walrus
 - [ ] Seal
 - [ ] Nautilus
 - [ ] DeepBook
 - [ ] PTBs
-- [ x ] Kiosk
-- [ x ] Custom tokens (regulated coins, closed-loop tokens)
-- [ x ] NFTs
-- [ x ] DeFi
+- [x] Kiosk
+- [x] Custom tokens (regulated coins, closed-loop tokens)
+- [x] NFTs
+- [x] DeFi
 - [ ] Enoki
 
 ## Opportunities Sought
 
 I am looking for a full-time Move position. I would like to spend at least 50% of my time on smart contract engineering.
+
+You can contact me:
+- Mail: smithbabawande@gmail.com
+- X (Previously Twitter): [@wendysmile28](https://x.com/wendysmile28)
+
